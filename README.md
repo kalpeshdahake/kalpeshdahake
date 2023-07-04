@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kalpesh Dahake</h1>
 <h3 align="center">A Passionate Data Scientist Engineer from India</h3>
 
-![GIF Image](https://miro.medium.com/v2/resize:fit:800/1*ubde-Fkr9MeohJo0EuqQNQ.gif)
+<p align="center">
+  <img src="https://miro.medium.com/v2/resize:fit:800/1*ubde-Fkr9MeohJo0EuqQNQ.gif" alt="GIF Image">
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kalpeshdahake&label=Profile%20views&color=0e75b6&style=flat" alt="kalpeshdahake" /> </p>
 
