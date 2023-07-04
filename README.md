@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kalpesh Dahake</h1>
 <h3 align="center">A Passionate Data Scientist Engineer from India</h3>
 
-![GIF Image](https://institute.careerguide.com/wp-content/uploads/2020/10/ImprobableMajorEarthworm-size_restricted.gif)
+![GIF Image](https://thumbs.gfycat.com/TiredRipeFennecfox-max-1mb.gif)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kalpeshdahake&label=Profile%20views&color=0e75b6&style=flat" alt="kalpeshdahake" /> </p>
 
