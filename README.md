@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Terralogic Software Solutions India Pvt. Ltd.**
 
-- 🌱 I’m currently learning **Machine Learning Model using Python, NLP, Selenium, ROBOT Framework**
+- 🌱 I’m currently learning **Machine Learning Model using Python, NLP, OpenCV, Computer Vision**
 
 - 👯 I’m looking to collaborate on **Data Science Project - NLP, Computer Vision, Cognitive Medium**
 
