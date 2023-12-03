@@ -9,13 +9,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kalpeshdahake" alt="kalpeshdahake" /></a> </p>
 
-- 🔭 I’m currently working on **Computer Vision using OpenCV, Deep Learning**
+- 🔭 I’m currently working on **NLP, Azure Cognitive Service, Machine Learning & Deep Learning**
 
-- 🌱 I’m currently learning **Computer Vision, OpenCV, Machine Learning and Deep Learning, TensorFlow, Keras, AWS**
+- 🌱 I’m currently learning **NLP, Computer Vision, OpenCV, Machine Learning and Deep Learning, PyTorch, TensorFlow, Keras, AWS**
 
-- 👯 I’m looking to collaborate on **AIML, Computer Vision, OpenCV Development, Machine Learning and Deep Learning**
+- 👯 I’m looking to collaborate on **AIML & Data Scientist**
 
-- 🤝 I’m looking for help with **Artificial Intelligence Engineer**
+- 🤝 I’m looking for help with **Artificial Intelligence Engineer & Data Scientist**
 
 - 👨‍💻 All of my projects are available at [https://github.com/kalpeshdahake?tab=repositories](https://github.com/kalpeshdahake?tab=repositories)
 
