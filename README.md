@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kalpesh Anil Dahake</h1>
-<h3 align="center">A passionate AIML & Data Science Engineer from India</h3>
+<h3 align="center">A passionate AIML & Data Science Engineer from Kyndryl Solutions PVT LTD,India</h3>
 
 <p align="center">
   <img src="https://miro.medium.com/v2/resize:fit:800/1*ubde-Fkr9MeohJo0EuqQNQ.gif" alt="GIF Image">
@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **NLP, Azure Cognitive Service, Machine Learning & Deep Learning**
 
-- 🌱 I’m currently learning **NLP, Computer Vision, OpenCV, Machine Learning and Deep Learning, PyTorch, TensorFlow, Keras, AWS**
+- 🌱 I’m currently learning **NLP, Computer Vision, OpenCV, Machine Learning and Deep Learning, PyTorch, TensorFlow, Langchain, Azure**
 
 - 👯 I’m looking to collaborate on **AIML & Data Scientist**
 
