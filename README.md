@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kalpesh Anil Dahake</h1>
-<h3 align="center">A passionate AIML & Data Science Engineer from Kyndryl Solutions PVT LTD,India</h3>
+<h3 align="center">A passionate Gen AI-Data Scientist from Kyndryl Solutions PVT LTD,India</h3>
 
 <p align="center">
   <img src="https://miro.medium.com/v2/resize:fit:800/1*ubde-Fkr9MeohJo0EuqQNQ.gif" alt="GIF Image">
@@ -9,11 +9,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kalpeshdahake" alt="kalpeshdahake" /></a> </p>
 
-- 🔭 I’m currently working on **NLP, Azure Cognitive Service, Machine Learning & Deep Learning**
+- 🔭 I’m currently working on **Generative AI, Agentic AI, NLP, Computer Vision, Machine Learning, Deep Learning, Azure**
 
-- 🌱 I’m currently learning **NLP, Computer Vision, OpenCV, Machine Learning and Deep Learning, PyTorch, TensorFlow, Langchain, Azure**
+- 🌱 I’m currently learning **Agentic AI**
 
-- 👯 I’m looking to collaborate on **AIML & Data Scientist**
+- 👯 I’m looking to collaborate on **Agentic AI & Generative AI**
 
 - 🤝 I’m looking for help with **Artificial Intelligence Engineer & Data Scientist**
 
